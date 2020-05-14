@@ -14,6 +14,8 @@ public static void main(String[] args) {
 	System.out.println(sb.hashCode());
 	System.out.println(sb);
 	
+	
+	System.out.println("Git Test");
 }
 
 }
